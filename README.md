@@ -1,6 +1,6 @@
 > Завжди пишіть код так, наче той, хто буде його підтримувати в підсумку, є схильний до насилля психопат, який знає, де ви живете. Пишіть код, який буде придатний до читання
 >
-> John F. Woods [1](https://groups.google.com/forum/#!msg/comp.lang.c++/rYCO5yn4lXw/oITtSkZOtoUJ)
+> [John F. Woods](https://groups.google.com/forum/#!msg/comp.lang.c++/rYCO5yn4lXw/oITtSkZOtoUJ)
 
 # Загальні правила
 
